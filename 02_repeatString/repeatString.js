@@ -1,7 +1,7 @@
 let repeatString = function(string, num) {
     let timesRepeated = 1;
     let fullStr = "";
-
+    
     if (num < 0){
         return 'ERROR';
     }
